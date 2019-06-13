@@ -11,6 +11,7 @@
     </formats>
 
     <includeBaseDirectory>true</includeBaseDirectory>
+    <!--<includeBaseDirectory>false</includeBaseDirectory>--> <!-- disable the creation of root's distribution dir in the archive -->
 
     <fileSets>
         <!--
